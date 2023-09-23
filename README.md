@@ -38,8 +38,10 @@ The dataset encompasses details of over 34,000 organizations, shedding light on 
    - **Loss**: 0.5822
    - **Accuracy**: 72.52%
 
+![Alt text](https://github.com/darcy5d/Fintech_Module_13_Homework_Assignment/blob/main/Exported_Graphics/model_loss_accuracy.png?raw=true "PCA Clustering presented in three dimensions") 
+
 ### **Conclusion**
-Unfortunately, making changes to the neural network, including dropping feature columns, introduction regularisation, reducing the hidden number of neurons; as well as undersampling to create balanced classes did not yield significant changes in accurracy.
+Unfortunately, making changes to the neural network, including dropping feature columns, introduction regularisation, reducing the hidden number of neurons; as well as undersampling to create balanced classes did not yield significant changes in accurracy.  Further investigation and tweaking is required to increase accurracy and reduce loss.
 
 ---
 
